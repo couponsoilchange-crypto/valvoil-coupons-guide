@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://couponsoilchange-crypto.github.io/valvoil-coupons-guide/sitemap.xml
